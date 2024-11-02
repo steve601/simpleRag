@@ -1,0 +1,8 @@
+langchain 
+langchain_community
+huggingface_hub
+faiss-cpu
+pypdf
+langchain_huggingface
+chromadb
+langchain_core
